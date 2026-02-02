@@ -2,6 +2,7 @@
 
 Real-time face recognition system integrating FaceNet embeddings with active liveness detection via head pose estimation and facial action units. Designed for identity verification with anti-spoofing capabilities.
 
+## System Overview
 ![System Overview](image/pipeline.png)
 
 ## Key Features
@@ -43,7 +44,7 @@ Face_Recognition/
 ```
 
 
-
+## Demo Results
 ![Demo Results](assets/demo_results.png)
 
 ## Technical Details
