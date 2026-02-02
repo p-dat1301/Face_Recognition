@@ -45,7 +45,7 @@ Face_Recognition/
 
 
 ## Demo Results
-![Demo Results](assets/demo_results.png)
+![Demo Results](image/demo_results.png)
 
 ## Technical Details
 
